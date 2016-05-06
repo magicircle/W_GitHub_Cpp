@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  FXF_01.cpp
+c:\workspace\w_github_cpp\fxf_01\fxf_01\fxf_01.cpp(12): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating Code...
+  FXF_01.vcxproj -> C:\WorkSpace\W_GitHub_Cpp\FXF_01\Debug\FXF_01.exe
