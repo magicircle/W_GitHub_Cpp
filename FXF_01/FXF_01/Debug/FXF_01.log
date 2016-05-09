@@ -1,5 +1,3 @@
-﻿  stdafx.cpp
-  FXF_01.cpp
-c:\workspace\w_github_cpp\fxf_01\fxf_01\fxf_01.cpp(12): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-  Generating Code...
+﻿  FXF_01.cpp
+c:\workspace\w_github_cpp\fxf_01\fxf_01\fxf_01.cpp(12): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
   FXF_01.vcxproj -> C:\WorkSpace\W_GitHub_Cpp\FXF_01\Debug\FXF_01.exe
